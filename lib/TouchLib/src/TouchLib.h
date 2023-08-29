@@ -12,6 +12,8 @@
 #ifndef __TOUCHLIB_H__
 #define __TOUCHLIB_H__
 
+#define TOUCH_MODULES_CST_SELF
+
 #if  defined(TOUCH_MODULES_CST_SELF)
 #include "ModulesCSTSelf.tpp"
 typedef TouchLibCSTSelf TouchLib;
