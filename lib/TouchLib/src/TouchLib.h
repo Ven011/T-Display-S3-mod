@@ -8,7 +8,6 @@
  * @copyright Copyright (c) 2022
  *
  */
-
 #ifndef __TOUCHLIB_H__
 #define __TOUCHLIB_H__
 
